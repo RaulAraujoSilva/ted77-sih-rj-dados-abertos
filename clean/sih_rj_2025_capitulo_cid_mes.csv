@@ -1,0 +1,483 @@
+cap_cid,cap_cid_desc,mes,sexo,internacoes,valor_total_brl,obitos
+I,Infecciosas e parasitárias,2025-01,Feminino,2268,6081416.46,646
+I,Infecciosas e parasitárias,2025-01,Masculino,2603,6882686.6,665
+I,Infecciosas e parasitárias,2025-02,Feminino,2174,5497560.02,627
+I,Infecciosas e parasitárias,2025-02,Masculino,2461,6141181.96,551
+I,Infecciosas e parasitárias,2025-03,Feminino,2245,5901494.82,587
+I,Infecciosas e parasitárias,2025-03,Masculino,2527,6368684.92,565
+I,Infecciosas e parasitárias,2025-04,Feminino,2176,5735407.67,599
+I,Infecciosas e parasitárias,2025-04,Masculino,2350,5960263.38,558
+I,Infecciosas e parasitárias,2025-05,Feminino,2103,5206300.02,570
+I,Infecciosas e parasitárias,2025-05,Masculino,2321,6205987.03,565
+I,Infecciosas e parasitárias,2025-06,Feminino,2102,5944497.42,637
+I,Infecciosas e parasitárias,2025-06,Masculino,2303,6391701.79,635
+I,Infecciosas e parasitárias,2025-07,Feminino,2027,5513720.75,615
+I,Infecciosas e parasitárias,2025-07,Masculino,2370,6341988.82,628
+I,Infecciosas e parasitárias,2025-08,Feminino,1999,5394075.71,547
+I,Infecciosas e parasitárias,2025-08,Masculino,2288,6289565.91,578
+I,Infecciosas e parasitárias,2025-09,Feminino,1914,5190234.68,476
+I,Infecciosas e parasitárias,2025-09,Masculino,2264,6024475.03,542
+I,Infecciosas e parasitárias,2025-10,Feminino,2032,5082985.53,509
+I,Infecciosas e parasitárias,2025-10,Masculino,2192,5782642.93,524
+I,Infecciosas e parasitárias,2025-11,Feminino,2094,5420535.34,524
+I,Infecciosas e parasitárias,2025-11,Masculino,2198,5650454.0,495
+I,Infecciosas e parasitárias,2025-12,Feminino,2123,5167647.35,509
+I,Infecciosas e parasitárias,2025-12,Masculino,2251,5774094.62,509
+II,Neoplasias,2025-01,Feminino,3353,7688026.09,393
+II,Neoplasias,2025-01,Masculino,2169,5287911.15,288
+II,Neoplasias,2025-02,Feminino,3304,7481068.47,340
+II,Neoplasias,2025-02,Masculino,2147,5519620.74,295
+II,Neoplasias,2025-03,Feminino,3286,7846392.52,351
+II,Neoplasias,2025-03,Masculino,2177,5569282.74,311
+II,Neoplasias,2025-04,Feminino,3253,7730473.95,347
+II,Neoplasias,2025-04,Masculino,1957,5815310.98,259
+II,Neoplasias,2025-05,Feminino,3523,10505800.84,331
+II,Neoplasias,2025-05,Masculino,2215,6633732.23,254
+II,Neoplasias,2025-06,Feminino,3387,9207739.3,371
+II,Neoplasias,2025-06,Masculino,2143,6696022.89,279
+II,Neoplasias,2025-07,Feminino,3678,9788340.38,360
+II,Neoplasias,2025-07,Masculino,2368,7281357.32,340
+II,Neoplasias,2025-08,Feminino,3671,9382087.08,346
+II,Neoplasias,2025-08,Masculino,2241,5736283.33,270
+II,Neoplasias,2025-09,Feminino,3742,8589720.44,363
+II,Neoplasias,2025-09,Masculino,2364,5775160.96,290
+II,Neoplasias,2025-10,Feminino,4005,9037264.61,333
+II,Neoplasias,2025-10,Masculino,2376,5698105.17,285
+II,Neoplasias,2025-11,Feminino,3654,8364869.14,337
+II,Neoplasias,2025-11,Masculino,2201,5137158.16,261
+II,Neoplasias,2025-12,Feminino,3356,8364221.89,331
+II,Neoplasias,2025-12,Masculino,2079,5828840.06,257
+III,Sangue e imunidade,2025-01,Feminino,586,497558.54,53
+III,Sangue e imunidade,2025-01,Masculino,543,580263.76,44
+III,Sangue e imunidade,2025-02,Feminino,593,437188.91,41
+III,Sangue e imunidade,2025-02,Masculino,442,468660.05,44
+III,Sangue e imunidade,2025-03,Feminino,581,520269.75,46
+III,Sangue e imunidade,2025-03,Masculino,507,571728.01,60
+III,Sangue e imunidade,2025-04,Feminino,556,542206.09,43
+III,Sangue e imunidade,2025-04,Masculino,474,441156.66,51
+III,Sangue e imunidade,2025-05,Feminino,576,599624.46,43
+III,Sangue e imunidade,2025-05,Masculino,512,512745.61,51
+III,Sangue e imunidade,2025-06,Feminino,499,484173.76,39
+III,Sangue e imunidade,2025-06,Masculino,450,483346.05,37
+III,Sangue e imunidade,2025-07,Feminino,558,487491.96,32
+III,Sangue e imunidade,2025-07,Masculino,460,374153.84,29
+III,Sangue e imunidade,2025-08,Feminino,534,437315.76,52
+III,Sangue e imunidade,2025-08,Masculino,445,452825.93,42
+III,Sangue e imunidade,2025-09,Feminino,619,535123.51,61
+III,Sangue e imunidade,2025-09,Masculino,475,492179.4,34
+III,Sangue e imunidade,2025-10,Feminino,633,552936.66,44
+III,Sangue e imunidade,2025-10,Masculino,543,485540.97,41
+III,Sangue e imunidade,2025-11,Feminino,561,490152.5,25
+III,Sangue e imunidade,2025-11,Masculino,463,429466.33,37
+III,Sangue e imunidade,2025-12,Feminino,574,616446.15,34
+III,Sangue e imunidade,2025-12,Masculino,469,487015.1,48
+IV,Endócrinas e metabólicas,2025-01,Feminino,717,773358.73,50
+IV,Endócrinas e metabólicas,2025-01,Masculino,829,1010212.5,62
+IV,Endócrinas e metabólicas,2025-02,Feminino,672,670250.65,50
+IV,Endócrinas e metabólicas,2025-02,Masculino,763,941589.46,52
+IV,Endócrinas e metabólicas,2025-03,Feminino,702,862682.93,54
+IV,Endócrinas e metabólicas,2025-03,Masculino,726,820754.82,56
+IV,Endócrinas e metabólicas,2025-04,Feminino,659,686377.28,45
+IV,Endócrinas e metabólicas,2025-04,Masculino,668,728719.18,47
+IV,Endócrinas e metabólicas,2025-05,Feminino,683,1355707.7,43
+IV,Endócrinas e metabólicas,2025-05,Masculino,741,1069649.65,62
+IV,Endócrinas e metabólicas,2025-06,Feminino,746,2200995.55,53
+IV,Endócrinas e metabólicas,2025-06,Masculino,613,1041518.97,46
+IV,Endócrinas e metabólicas,2025-07,Feminino,730,1675646.66,56
+IV,Endócrinas e metabólicas,2025-07,Masculino,671,927927.92,44
+IV,Endócrinas e metabólicas,2025-08,Feminino,759,1531166.15,66
+IV,Endócrinas e metabólicas,2025-08,Masculino,688,937386.66,54
+IV,Endócrinas e metabólicas,2025-09,Feminino,745,1237416.02,56
+IV,Endócrinas e metabólicas,2025-09,Masculino,708,855408.81,51
+IV,Endócrinas e metabólicas,2025-10,Feminino,820,1780868.12,73
+IV,Endócrinas e metabólicas,2025-10,Masculino,753,954561.6,57
+IV,Endócrinas e metabólicas,2025-11,Feminino,781,1321763.44,62
+IV,Endócrinas e metabólicas,2025-11,Masculino,717,935153.56,50
+IV,Endócrinas e metabólicas,2025-12,Feminino,734,1502212.08,43
+IV,Endócrinas e metabólicas,2025-12,Masculino,740,998027.19,50
+IX,Aparelho circulatório,2025-01,Feminino,3735,13230254.28,426
+IX,Aparelho circulatório,2025-01,Masculino,4627,19048150.42,492
+IX,Aparelho circulatório,2025-02,Feminino,3518,11715450.12,359
+IX,Aparelho circulatório,2025-02,Masculino,4220,16875673.23,375
+IX,Aparelho circulatório,2025-03,Feminino,3609,12574954.6,348
+IX,Aparelho circulatório,2025-03,Masculino,4067,17578972.0,393
+IX,Aparelho circulatório,2025-04,Feminino,3542,12455549.01,388
+IX,Aparelho circulatório,2025-04,Masculino,4129,17467759.57,414
+IX,Aparelho circulatório,2025-05,Feminino,3797,13633011.87,431
+IX,Aparelho circulatório,2025-05,Masculino,4397,18687463.89,472
+IX,Aparelho circulatório,2025-06,Feminino,3806,13547241.85,428
+IX,Aparelho circulatório,2025-06,Masculino,4375,18207310.71,496
+IX,Aparelho circulatório,2025-07,Feminino,3812,13804012.39,452
+IX,Aparelho circulatório,2025-07,Masculino,4779,20502859.23,502
+IX,Aparelho circulatório,2025-08,Feminino,4007,14541730.56,466
+IX,Aparelho circulatório,2025-08,Masculino,4753,19689870.89,494
+IX,Aparelho circulatório,2025-09,Feminino,3984,14036257.0,448
+IX,Aparelho circulatório,2025-09,Masculino,4690,19484046.26,460
+IX,Aparelho circulatório,2025-10,Feminino,4047,14659401.3,403
+IX,Aparelho circulatório,2025-10,Masculino,4616,19593671.27,431
+IX,Aparelho circulatório,2025-11,Feminino,3782,12918212.68,365
+IX,Aparelho circulatório,2025-11,Masculino,4295,17468992.01,406
+IX,Aparelho circulatório,2025-12,Feminino,3762,12914033.97,416
+IX,Aparelho circulatório,2025-12,Masculino,4345,19015122.18,390
+V,Transtornos mentais,2025-01,Feminino,737,359704.84,3
+V,Transtornos mentais,2025-01,Masculino,788,479128.54,3
+V,Transtornos mentais,2025-02,Feminino,672,307301.16,6
+V,Transtornos mentais,2025-02,Masculino,712,418091.31,3
+V,Transtornos mentais,2025-03,Feminino,725,325528.41,5
+V,Transtornos mentais,2025-03,Masculino,771,464096.12,8
+V,Transtornos mentais,2025-04,Feminino,708,313160.05,3
+V,Transtornos mentais,2025-04,Masculino,714,468409.63,4
+V,Transtornos mentais,2025-05,Feminino,721,320864.24,4
+V,Transtornos mentais,2025-05,Masculino,744,453963.35,5
+V,Transtornos mentais,2025-06,Feminino,739,331022.67,6
+V,Transtornos mentais,2025-06,Masculino,713,444672.54,4
+V,Transtornos mentais,2025-07,Feminino,821,408826.04,1
+V,Transtornos mentais,2025-07,Masculino,777,504394.64,7
+V,Transtornos mentais,2025-08,Feminino,742,337108.28,4
+V,Transtornos mentais,2025-08,Masculino,742,507881.6,8
+V,Transtornos mentais,2025-09,Feminino,783,379980.73,5
+V,Transtornos mentais,2025-09,Masculino,798,514059.95,5
+V,Transtornos mentais,2025-10,Feminino,737,352613.16,4
+V,Transtornos mentais,2025-10,Masculino,801,535520.79,10
+V,Transtornos mentais,2025-11,Feminino,842,398838.57,3
+V,Transtornos mentais,2025-11,Masculino,847,485450.58,7
+V,Transtornos mentais,2025-12,Feminino,838,370293.33,6
+V,Transtornos mentais,2025-12,Masculino,835,465266.01,6
+VI,Sistema nervoso,2025-01,Feminino,717,1172410.2,29
+VI,Sistema nervoso,2025-01,Masculino,559,1259221.45,33
+VI,Sistema nervoso,2025-02,Feminino,654,1209775.13,35
+VI,Sistema nervoso,2025-02,Masculino,570,1204188.22,39
+VI,Sistema nervoso,2025-03,Feminino,654,1242496.46,24
+VI,Sistema nervoso,2025-03,Masculino,571,1340465.97,45
+VI,Sistema nervoso,2025-04,Feminino,697,1335746.4,34
+VI,Sistema nervoso,2025-04,Masculino,596,1287811.51,37
+VI,Sistema nervoso,2025-05,Feminino,678,1139613.86,21
+VI,Sistema nervoso,2025-05,Masculino,610,1270743.37,40
+VI,Sistema nervoso,2025-06,Feminino,693,1376530.58,39
+VI,Sistema nervoso,2025-06,Masculino,578,1473943.87,45
+VI,Sistema nervoso,2025-07,Feminino,670,1194917.71,27
+VI,Sistema nervoso,2025-07,Masculino,555,1554848.1,37
+VI,Sistema nervoso,2025-08,Feminino,782,1404614.42,40
+VI,Sistema nervoso,2025-08,Masculino,599,1229668.92,29
+VI,Sistema nervoso,2025-09,Feminino,834,1440880.6,40
+VI,Sistema nervoso,2025-09,Masculino,640,1129532.92,34
+VI,Sistema nervoso,2025-10,Feminino,837,1368127.62,29
+VI,Sistema nervoso,2025-10,Masculino,601,1356510.32,37
+VI,Sistema nervoso,2025-11,Feminino,731,959947.63,31
+VI,Sistema nervoso,2025-11,Masculino,601,1194394.37,30
+VI,Sistema nervoso,2025-12,Feminino,725,1395939.11,34
+VI,Sistema nervoso,2025-12,Masculino,573,1135739.06,39
+VII,Olho e anexos,2025-01,Feminino,1170,1459401.68,1
+VII,Olho e anexos,2025-01,Masculino,926,1342448.25,0
+VII,Olho e anexos,2025-02,Feminino,1065,1374294.86,0
+VII,Olho e anexos,2025-02,Masculino,817,1311948.63,0
+VII,Olho e anexos,2025-03,Feminino,1178,1494271.7,0
+VII,Olho e anexos,2025-03,Masculino,890,1380906.62,0
+VII,Olho e anexos,2025-04,Feminino,1002,1423208.11,0
+VII,Olho e anexos,2025-04,Masculino,770,1192097.3,0
+VII,Olho e anexos,2025-05,Feminino,1370,1740054.85,0
+VII,Olho e anexos,2025-05,Masculino,1039,1590256.41,0
+VII,Olho e anexos,2025-06,Feminino,1155,1629280.62,0
+VII,Olho e anexos,2025-06,Masculino,877,1484722.88,0
+VII,Olho e anexos,2025-07,Feminino,1384,1753829.99,1
+VII,Olho e anexos,2025-07,Masculino,1067,1657695.06,1
+VII,Olho e anexos,2025-08,Feminino,1335,1678023.48,0
+VII,Olho e anexos,2025-08,Masculino,933,1447399.77,0
+VII,Olho e anexos,2025-09,Feminino,1191,1605229.91,0
+VII,Olho e anexos,2025-09,Masculino,917,1346582.67,1
+VII,Olho e anexos,2025-10,Feminino,1434,1962900.58,0
+VII,Olho e anexos,2025-10,Masculino,994,1648807.0,1
+VII,Olho e anexos,2025-11,Feminino,1104,1562584.08,0
+VII,Olho e anexos,2025-11,Masculino,901,1525401.3,0
+VII,Olho e anexos,2025-12,Feminino,1079,1687440.51,0
+VII,Olho e anexos,2025-12,Masculino,827,1550633.54,0
+VIII,Ouvido,2025-01,Feminino,100,69408.41,0
+VIII,Ouvido,2025-01,Masculino,77,116003.54,0
+VIII,Ouvido,2025-02,Feminino,92,58308.5,0
+VIII,Ouvido,2025-02,Masculino,80,68915.65,0
+VIII,Ouvido,2025-03,Feminino,77,64279.78,0
+VIII,Ouvido,2025-03,Masculino,63,47225.8,0
+VIII,Ouvido,2025-04,Feminino,74,51738.06,1
+VIII,Ouvido,2025-04,Masculino,73,43261.48,0
+VIII,Ouvido,2025-05,Feminino,80,62961.54,0
+VIII,Ouvido,2025-05,Masculino,80,98510.45,2
+VIII,Ouvido,2025-06,Feminino,77,149826.03,0
+VIII,Ouvido,2025-06,Masculino,68,92679.33,0
+VIII,Ouvido,2025-07,Feminino,85,127799.53,0
+VIII,Ouvido,2025-07,Masculino,80,171048.29,1
+VIII,Ouvido,2025-08,Feminino,91,167436.07,0
+VIII,Ouvido,2025-08,Masculino,62,138486.94,0
+VIII,Ouvido,2025-09,Feminino,84,127578.9,0
+VIII,Ouvido,2025-09,Masculino,83,163264.74,0
+VIII,Ouvido,2025-10,Feminino,70,278876.88,0
+VIII,Ouvido,2025-10,Masculino,57,170903.8,0
+VIII,Ouvido,2025-11,Feminino,97,82859.95,1
+VIII,Ouvido,2025-11,Masculino,79,106354.62,0
+VIII,Ouvido,2025-12,Feminino,101,109028.84,0
+VIII,Ouvido,2025-12,Masculino,75,139424.4,0
+X,Aparelho respiratório,2025-01,Feminino,2578,5514701.57,400
+X,Aparelho respiratório,2025-01,Masculino,2628,5301862.94,409
+X,Aparelho respiratório,2025-02,Feminino,2128,4962538.21,390
+X,Aparelho respiratório,2025-02,Masculino,2349,5305920.4,381
+X,Aparelho respiratório,2025-03,Feminino,2195,4637573.11,356
+X,Aparelho respiratório,2025-03,Masculino,2487,5484102.29,344
+X,Aparelho respiratório,2025-04,Feminino,2529,4704556.78,371
+X,Aparelho respiratório,2025-04,Masculino,2806,5836664.56,368
+X,Aparelho respiratório,2025-05,Feminino,3429,6147493.34,444
+X,Aparelho respiratório,2025-05,Masculino,3682,6438900.2,432
+X,Aparelho respiratório,2025-06,Feminino,3963,7235822.96,555
+X,Aparelho respiratório,2025-06,Masculino,4284,8427450.75,547
+X,Aparelho respiratório,2025-07,Feminino,3755,6954528.25,506
+X,Aparelho respiratório,2025-07,Masculino,3932,7129148.91,456
+X,Aparelho respiratório,2025-08,Feminino,3222,5659780.47,438
+X,Aparelho respiratório,2025-08,Masculino,3496,6699385.32,426
+X,Aparelho respiratório,2025-09,Feminino,3009,6213102.42,408
+X,Aparelho respiratório,2025-09,Masculino,3351,6379243.71,382
+X,Aparelho respiratório,2025-10,Feminino,2742,5872956.7,395
+X,Aparelho respiratório,2025-10,Masculino,2944,6447902.62,358
+X,Aparelho respiratório,2025-11,Feminino,2767,5594921.63,379
+X,Aparelho respiratório,2025-11,Masculino,3203,6641559.93,409
+X,Aparelho respiratório,2025-12,Feminino,2450,5034909.94,359
+X,Aparelho respiratório,2025-12,Masculino,2760,5755912.26,374
+XI,Aparelho digestivo,2025-01,Feminino,3628,6313423.57,143
+XI,Aparelho digestivo,2025-01,Masculino,3578,6700737.12,153
+XI,Aparelho digestivo,2025-02,Feminino,3402,4785523.44,111
+XI,Aparelho digestivo,2025-02,Masculino,3489,4833041.66,141
+XI,Aparelho digestivo,2025-03,Feminino,3652,6101842.65,116
+XI,Aparelho digestivo,2025-03,Masculino,3521,5502277.1,124
+XI,Aparelho digestivo,2025-04,Feminino,3456,4974853.02,127
+XI,Aparelho digestivo,2025-04,Masculino,3373,4062683.02,124
+XI,Aparelho digestivo,2025-05,Feminino,3956,5902268.57,146
+XI,Aparelho digestivo,2025-05,Masculino,3691,5702385.67,139
+XI,Aparelho digestivo,2025-06,Feminino,3851,6080950.5,140
+XI,Aparelho digestivo,2025-06,Masculino,3735,5800332.81,146
+XI,Aparelho digestivo,2025-07,Feminino,3964,6670589.32,125
+XI,Aparelho digestivo,2025-07,Masculino,3858,5993354.02,165
+XI,Aparelho digestivo,2025-08,Feminino,3827,5884912.95,139
+XI,Aparelho digestivo,2025-08,Masculino,3965,5944718.95,134
+XI,Aparelho digestivo,2025-09,Feminino,4183,6881282.54,157
+XI,Aparelho digestivo,2025-09,Masculino,4028,6528578.29,162
+XI,Aparelho digestivo,2025-10,Feminino,4187,7680505.46,113
+XI,Aparelho digestivo,2025-10,Masculino,4057,7300173.88,150
+XI,Aparelho digestivo,2025-11,Feminino,4150,7814021.65,119
+XI,Aparelho digestivo,2025-11,Masculino,3990,6485034.27,136
+XI,Aparelho digestivo,2025-12,Feminino,3862,6513298.73,119
+XI,Aparelho digestivo,2025-12,Masculino,3751,6542381.06,135
+XII,Pele e subcutâneo,2025-01,Feminino,745,589361.98,11
+XII,Pele e subcutâneo,2025-01,Masculino,802,719427.33,17
+XII,Pele e subcutâneo,2025-02,Feminino,787,580300.23,18
+XII,Pele e subcutâneo,2025-02,Masculino,835,644518.75,14
+XII,Pele e subcutâneo,2025-03,Feminino,792,531348.66,9
+XII,Pele e subcutâneo,2025-03,Masculino,791,641596.46,10
+XII,Pele e subcutâneo,2025-04,Feminino,755,594777.31,14
+XII,Pele e subcutâneo,2025-04,Masculino,825,615065.06,14
+XII,Pele e subcutâneo,2025-05,Feminino,782,478349.55,14
+XII,Pele e subcutâneo,2025-05,Masculino,845,701539.87,23
+XII,Pele e subcutâneo,2025-06,Feminino,727,470430.04,20
+XII,Pele e subcutâneo,2025-06,Masculino,768,593914.34,15
+XII,Pele e subcutâneo,2025-07,Feminino,815,550073.63,20
+XII,Pele e subcutâneo,2025-07,Masculino,836,563206.31,21
+XII,Pele e subcutâneo,2025-08,Feminino,799,482960.74,19
+XII,Pele e subcutâneo,2025-08,Masculino,799,591591.09,18
+XII,Pele e subcutâneo,2025-09,Feminino,866,618387.56,15
+XII,Pele e subcutâneo,2025-09,Masculino,885,780246.48,25
+XII,Pele e subcutâneo,2025-10,Feminino,890,539932.24,19
+XII,Pele e subcutâneo,2025-10,Masculino,907,667706.01,20
+XII,Pele e subcutâneo,2025-11,Feminino,869,519324.37,25
+XII,Pele e subcutâneo,2025-11,Masculino,891,660448.25,19
+XII,Pele e subcutâneo,2025-12,Feminino,815,572983.64,26
+XII,Pele e subcutâneo,2025-12,Masculino,860,702001.61,11
+XIII,Osteomuscular,2025-01,Feminino,786,1563042.67,13
+XIII,Osteomuscular,2025-01,Masculino,701,1378550.09,6
+XIII,Osteomuscular,2025-02,Feminino,792,1483276.69,9
+XIII,Osteomuscular,2025-02,Masculino,798,1905403.08,7
+XIII,Osteomuscular,2025-03,Feminino,754,1574553.48,6
+XIII,Osteomuscular,2025-03,Masculino,702,1657618.36,6
+XIII,Osteomuscular,2025-04,Feminino,795,2641456.13,10
+XIII,Osteomuscular,2025-04,Masculino,750,2190282.78,6
+XIII,Osteomuscular,2025-05,Feminino,838,2448250.95,2
+XIII,Osteomuscular,2025-05,Masculino,823,2620504.36,9
+XIII,Osteomuscular,2025-06,Feminino,766,2107517.21,6
+XIII,Osteomuscular,2025-06,Masculino,709,1905017.53,11
+XIII,Osteomuscular,2025-07,Feminino,863,2408688.21,12
+XIII,Osteomuscular,2025-07,Masculino,802,2398774.92,8
+XIII,Osteomuscular,2025-08,Feminino,943,3038655.07,5
+XIII,Osteomuscular,2025-08,Masculino,901,3168830.91,7
+XIII,Osteomuscular,2025-09,Feminino,902,2851229.24,9
+XIII,Osteomuscular,2025-09,Masculino,839,2408268.91,10
+XIII,Osteomuscular,2025-10,Feminino,1125,4185925.62,4
+XIII,Osteomuscular,2025-10,Masculino,923,4033696.58,4
+XIII,Osteomuscular,2025-11,Feminino,1072,3247199.15,6
+XIII,Osteomuscular,2025-11,Masculino,888,2989758.73,4
+XIII,Osteomuscular,2025-12,Feminino,975,3268428.53,6
+XIII,Osteomuscular,2025-12,Masculino,872,2915356.73,10
+XIV,Aparelho geniturinário,2025-01,Feminino,3261,4548749.29,182
+XIV,Aparelho geniturinário,2025-01,Masculino,3004,4775375.58,161
+XIV,Aparelho geniturinário,2025-02,Feminino,3187,4716928.79,169
+XIV,Aparelho geniturinário,2025-02,Masculino,2998,4896393.97,157
+XIV,Aparelho geniturinário,2025-03,Feminino,3110,3694238.73,146
+XIV,Aparelho geniturinário,2025-03,Masculino,2816,4963094.9,169
+XIV,Aparelho geniturinário,2025-04,Feminino,3000,3797628.43,157
+XIV,Aparelho geniturinário,2025-04,Masculino,2722,4940670.53,181
+XIV,Aparelho geniturinário,2025-05,Feminino,3173,4640625.47,145
+XIV,Aparelho geniturinário,2025-05,Masculino,2855,4973493.97,161
+XIV,Aparelho geniturinário,2025-06,Feminino,3127,4251470.0,180
+XIV,Aparelho geniturinário,2025-06,Masculino,2792,4895950.26,209
+XIV,Aparelho geniturinário,2025-07,Feminino,3222,4079630.0,197
+XIV,Aparelho geniturinário,2025-07,Masculino,3025,5164937.86,183
+XIV,Aparelho geniturinário,2025-08,Feminino,3233,4032697.05,160
+XIV,Aparelho geniturinário,2025-08,Masculino,2859,4860848.58,185
+XIV,Aparelho geniturinário,2025-09,Feminino,3205,4602784.29,168
+XIV,Aparelho geniturinário,2025-09,Masculino,2925,4645588.64,172
+XIV,Aparelho geniturinário,2025-10,Feminino,3401,4523890.38,176
+XIV,Aparelho geniturinário,2025-10,Masculino,2890,4852103.25,162
+XIV,Aparelho geniturinário,2025-11,Feminino,3237,4314305.31,179
+XIV,Aparelho geniturinário,2025-11,Masculino,2870,4558455.05,177
+XIV,Aparelho geniturinário,2025-12,Feminino,3114,4265344.38,165
+XIV,Aparelho geniturinário,2025-12,Masculino,2693,4540756.24,137
+XIX,Lesões e envenenamentos,2025-01,Feminino,3122,5207614.2,107
+XIX,Lesões e envenenamentos,2025-01,Masculino,5371,8634842.33,135
+XIX,Lesões e envenenamentos,2025-02,Feminino,2891,5169824.32,85
+XIX,Lesões e envenenamentos,2025-02,Masculino,5100,8888539.95,151
+XIX,Lesões e envenenamentos,2025-03,Feminino,3050,5682507.94,104
+XIX,Lesões e envenenamentos,2025-03,Masculino,5380,9357239.78,169
+XIX,Lesões e envenenamentos,2025-04,Feminino,2989,5188644.7,82
+XIX,Lesões e envenenamentos,2025-04,Masculino,5409,9043647.65,151
+XIX,Lesões e envenenamentos,2025-05,Feminino,2881,5447170.96,91
+XIX,Lesões e envenenamentos,2025-05,Masculino,5327,8955721.97,144
+XIX,Lesões e envenenamentos,2025-06,Feminino,3171,6145173.2,111
+XIX,Lesões e envenenamentos,2025-06,Masculino,5287,8515872.6,147
+XIX,Lesões e envenenamentos,2025-07,Feminino,3233,6339905.75,91
+XIX,Lesões e envenenamentos,2025-07,Masculino,5690,9606838.58,161
+XIX,Lesões e envenenamentos,2025-08,Feminino,3144,6586591.85,104
+XIX,Lesões e envenenamentos,2025-08,Masculino,5262,9095278.05,158
+XIX,Lesões e envenenamentos,2025-09,Feminino,3380,6336961.46,102
+XIX,Lesões e envenenamentos,2025-09,Masculino,5889,10126834.4,159
+XIX,Lesões e envenenamentos,2025-10,Feminino,3336,6102688.75,83
+XIX,Lesões e envenenamentos,2025-10,Masculino,5666,9898104.43,137
+XIX,Lesões e envenenamentos,2025-11,Feminino,3232,5842238.57,89
+XIX,Lesões e envenenamentos,2025-11,Masculino,5472,8796512.35,112
+XIX,Lesões e envenenamentos,2025-12,Feminino,3347,5818720.17,90
+XIX,Lesões e envenenamentos,2025-12,Masculino,5735,9510907.44,151
+XV,"Gravidez, parto e puerpério",2025-01,Feminino,12178,7382337.32,7
+XV,"Gravidez, parto e puerpério",2025-01,Masculino,36,44882.27,1
+XV,"Gravidez, parto e puerpério",2025-02,Feminino,11120,6706242.89,4
+XV,"Gravidez, parto e puerpério",2025-02,Masculino,21,15292.9,0
+XV,"Gravidez, parto e puerpério",2025-03,Feminino,12094,7545574.9,2
+XV,"Gravidez, parto e puerpério",2025-03,Masculino,26,28020.79,0
+XV,"Gravidez, parto e puerpério",2025-04,Feminino,12316,7894293.89,4
+XV,"Gravidez, parto e puerpério",2025-04,Masculino,25,21201.03,0
+XV,"Gravidez, parto e puerpério",2025-05,Feminino,12503,7965439.08,4
+XV,"Gravidez, parto e puerpério",2025-05,Masculino,20,13238.14,0
+XV,"Gravidez, parto e puerpério",2025-06,Feminino,12228,7800501.53,3
+XV,"Gravidez, parto e puerpério",2025-06,Masculino,26,49917.32,0
+XV,"Gravidez, parto e puerpério",2025-07,Feminino,11968,7564597.74,1
+XV,"Gravidez, parto e puerpério",2025-07,Masculino,33,35664.75,0
+XV,"Gravidez, parto e puerpério",2025-08,Feminino,11884,7422677.37,2
+XV,"Gravidez, parto e puerpério",2025-08,Masculino,20,16352.17,1
+XV,"Gravidez, parto e puerpério",2025-09,Feminino,11883,7321840.57,4
+XV,"Gravidez, parto e puerpério",2025-09,Masculino,13,7567.16,1
+XV,"Gravidez, parto e puerpério",2025-10,Feminino,12517,7658928.18,2
+XV,"Gravidez, parto e puerpério",2025-10,Masculino,14,8306.62,0
+XV,"Gravidez, parto e puerpério",2025-11,Feminino,11356,6999116.47,1
+XV,"Gravidez, parto e puerpério",2025-11,Masculino,22,11386.15,0
+XV,"Gravidez, parto e puerpério",2025-12,Feminino,11937,7299294.99,4
+XV,"Gravidez, parto e puerpério",2025-12,Masculino,20,13141.7,0
+XVI,Afecções perinatais,2025-01,Feminino,835,2521922.34,32
+XVI,Afecções perinatais,2025-01,Masculino,811,2494154.48,31
+XVI,Afecções perinatais,2025-02,Feminino,747,2435421.01,21
+XVI,Afecções perinatais,2025-02,Masculino,730,2484931.35,24
+XVI,Afecções perinatais,2025-03,Feminino,843,2646215.56,31
+XVI,Afecções perinatais,2025-03,Masculino,843,2717917.46,29
+XVI,Afecções perinatais,2025-04,Feminino,861,2260469.83,18
+XVI,Afecções perinatais,2025-04,Masculino,906,2889033.74,27
+XVI,Afecções perinatais,2025-05,Feminino,883,2585819.71,28
+XVI,Afecções perinatais,2025-05,Masculino,850,2447349.59,19
+XVI,Afecções perinatais,2025-06,Feminino,843,2404044.17,25
+XVI,Afecções perinatais,2025-06,Masculino,828,2337745.99,23
+XVI,Afecções perinatais,2025-07,Feminino,916,2565984.75,19
+XVI,Afecções perinatais,2025-07,Masculino,885,2641382.82,34
+XVI,Afecções perinatais,2025-08,Feminino,965,2676713.24,24
+XVI,Afecções perinatais,2025-08,Masculino,941,3058970.8,29
+XVI,Afecções perinatais,2025-09,Feminino,905,3047949.57,26
+XVI,Afecções perinatais,2025-09,Masculino,955,3134154.92,30
+XVI,Afecções perinatais,2025-10,Feminino,923,2888116.03,23
+XVI,Afecções perinatais,2025-10,Masculino,914,3122972.11,25
+XVI,Afecções perinatais,2025-11,Feminino,809,3052416.56,25
+XVI,Afecções perinatais,2025-11,Masculino,842,2804447.45,28
+XVI,Afecções perinatais,2025-12,Feminino,928,3565668.94,27
+XVI,Afecções perinatais,2025-12,Masculino,931,3409731.77,30
+XVII,Malformações congênitas,2025-01,Feminino,238,709839.17,4
+XVII,Malformações congênitas,2025-01,Masculino,376,865604.91,4
+XVII,Malformações congênitas,2025-02,Feminino,270,963416.36,5
+XVII,Malformações congênitas,2025-02,Masculino,418,792271.43,3
+XVII,Malformações congênitas,2025-03,Feminino,232,693870.61,5
+XVII,Malformações congênitas,2025-03,Masculino,339,557819.8,0
+XVII,Malformações congênitas,2025-04,Feminino,220,744729.73,5
+XVII,Malformações congênitas,2025-04,Masculino,344,708210.92,2
+XVII,Malformações congênitas,2025-05,Feminino,233,715407.03,2
+XVII,Malformações congênitas,2025-05,Masculino,380,984376.65,3
+XVII,Malformações congênitas,2025-06,Feminino,197,849382.56,8
+XVII,Malformações congênitas,2025-06,Masculino,347,1032916.89,6
+XVII,Malformações congênitas,2025-07,Feminino,230,895225.84,5
+XVII,Malformações congênitas,2025-07,Masculino,388,852541.28,4
+XVII,Malformações congênitas,2025-08,Feminino,217,600962.02,0
+XVII,Malformações congênitas,2025-08,Masculino,411,587491.05,4
+XVII,Malformações congênitas,2025-09,Feminino,269,685405.36,7
+XVII,Malformações congênitas,2025-09,Masculino,421,969835.53,4
+XVII,Malformações congênitas,2025-10,Feminino,280,1009602.06,3
+XVII,Malformações congênitas,2025-10,Masculino,395,1083480.25,2
+XVII,Malformações congênitas,2025-11,Feminino,217,602899.1,4
+XVII,Malformações congênitas,2025-11,Masculino,388,1178557.73,6
+XVII,Malformações congênitas,2025-12,Feminino,221,781031.25,2
+XVII,Malformações congênitas,2025-12,Masculino,318,904390.25,5
+XVIII,Sintomas e achados anormais,2025-01,Feminino,770,1151243.14,110
+XVIII,Sintomas e achados anormais,2025-01,Masculino,895,1367083.92,134
+XVIII,Sintomas e achados anormais,2025-02,Feminino,665,967524.23,108
+XVIII,Sintomas e achados anormais,2025-02,Masculino,814,1231904.8,108
+XVIII,Sintomas e achados anormais,2025-03,Feminino,677,862366.92,90
+XVIII,Sintomas e achados anormais,2025-03,Masculino,824,1265435.36,91
+XVIII,Sintomas e achados anormais,2025-04,Feminino,709,1057434.03,101
+XVIII,Sintomas e achados anormais,2025-04,Masculino,844,1439463.49,116
+XVIII,Sintomas e achados anormais,2025-05,Feminino,707,948687.37,106
+XVIII,Sintomas e achados anormais,2025-05,Masculino,836,1439057.92,122
+XVIII,Sintomas e achados anormais,2025-06,Feminino,696,1096772.83,118
+XVIII,Sintomas e achados anormais,2025-06,Masculino,813,1183516.7,108
+XVIII,Sintomas e achados anormais,2025-07,Feminino,718,929593.51,123
+XVIII,Sintomas e achados anormais,2025-07,Masculino,970,1414894.47,128
+XVIII,Sintomas e achados anormais,2025-08,Feminino,745,1211775.8,134
+XVIII,Sintomas e achados anormais,2025-08,Masculino,958,1521718.44,146
+XVIII,Sintomas e achados anormais,2025-09,Feminino,789,1064689.1,108
+XVIII,Sintomas e achados anormais,2025-09,Masculino,894,1348293.14,133
+XVIII,Sintomas e achados anormais,2025-10,Feminino,818,1188347.1,113
+XVIII,Sintomas e achados anormais,2025-10,Masculino,992,1757664.34,138
+XVIII,Sintomas e achados anormais,2025-11,Feminino,741,1118922.0,105
+XVIII,Sintomas e achados anormais,2025-11,Masculino,892,1327873.29,145
+XVIII,Sintomas e achados anormais,2025-12,Feminino,768,1150031.3,121
+XVIII,Sintomas e achados anormais,2025-12,Masculino,919,1305395.22,135
+XXI,Fatores que influenciam a saúde,2025-01,Feminino,1954,1448555.03,4
+XXI,Fatores que influenciam a saúde,2025-01,Masculino,1091,1390767.9,3
+XXI,Fatores que influenciam a saúde,2025-02,Feminino,2093,1457166.14,3
+XXI,Fatores que influenciam a saúde,2025-02,Masculino,1121,817932.03,3
+XXI,Fatores que influenciam a saúde,2025-03,Feminino,2239,1611837.17,1
+XXI,Fatores que influenciam a saúde,2025-03,Masculino,1086,883548.79,2
+XXI,Fatores que influenciam a saúde,2025-04,Feminino,2061,1505118.04,1
+XXI,Fatores que influenciam a saúde,2025-04,Masculino,1113,993172.99,3
+XXI,Fatores que influenciam a saúde,2025-05,Feminino,2274,1763897.95,2
+XXI,Fatores que influenciam a saúde,2025-05,Masculino,1477,1177808.16,4
+XXI,Fatores que influenciam a saúde,2025-06,Feminino,2302,1757727.8,4
+XXI,Fatores que influenciam a saúde,2025-06,Masculino,1289,998303.05,4
+XXI,Fatores que influenciam a saúde,2025-07,Feminino,2397,1910768.36,6
+XXI,Fatores que influenciam a saúde,2025-07,Masculino,1347,1342528.01,2
+XXI,Fatores que influenciam a saúde,2025-08,Feminino,2542,1971850.04,3
+XXI,Fatores que influenciam a saúde,2025-08,Masculino,1376,1203499.18,3
+XXI,Fatores que influenciam a saúde,2025-09,Feminino,2500,1778770.36,11
+XXI,Fatores que influenciam a saúde,2025-09,Masculino,1479,1276093.99,4
+XXI,Fatores que influenciam a saúde,2025-10,Feminino,2270,1574239.86,4
+XXI,Fatores que influenciam a saúde,2025-10,Masculino,1327,1102206.24,2
+XXI,Fatores que influenciam a saúde,2025-11,Feminino,1975,1534776.7,3
+XXI,Fatores que influenciam a saúde,2025-11,Masculino,1419,1215472.76,2
+XXI,Fatores que influenciam a saúde,2025-12,Feminino,2036,1444490.02,1
+XXI,Fatores que influenciam a saúde,2025-12,Masculino,1370,1145520.52,3
+XXII,Códigos para propósitos especiais,2025-01,Masculino,1,890.64,0
+XXII,Códigos para propósitos especiais,2025-12,Feminino,1,44.22,0

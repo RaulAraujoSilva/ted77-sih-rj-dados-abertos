@@ -1,0 +1,4 @@
+raw/
+*.dbf
+*.dbc
+__pycache__/

@@ -1,0 +1,178 @@
+{
+  "name": "sih-rj-2025-internacoes",
+  "title": "Internações hospitalares do SUS no Rio de Janeiro — 2025 (SIH/SUS)",
+  "description": "Base de dados aberta derivada dos microdados públicos do SIH/SUS (AIH reduzida, arquivos RDRJ2501–RDRJ2512) do DATASUS/Ministério da Saúde, tratada segundo a metodologia do artigo 'Building Health Management Dashboards with DATASUS Public Data' (TED 77/2024, UFF). Inclui agregações por município, especialidade, capítulo CID-10 e mês.",
+  "homepage": "https://github.com/RaulAraujoSilva/ted77-sih-rj-dados-abertos",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "DATASUS — SIH/SUS, arquivos de disseminação (AIH reduzida)",
+      "path": "ftp://ftp.datasus.gov.br/dissemin/publicos/SIHSUS/200801_/Dados"
+    },
+    {
+      "title": "IBGE — API de localidades (municípios do RJ)",
+      "path": "https://servicodados.ibge.gov.br/api/v1/localidades/estados/RJ/municipios"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "TED 77/2024 — Transformação Digital do SUS (UFF/FEC/SEIDIGI-MS)",
+      "role": "author"
+    }
+  ],
+  "resources": [
+    {
+      "name": "municipio_mes_especialidade",
+      "title": "Internações por município de residência, mês e especialidade",
+      "path": "clean/sih_rj_2025_municipio_mes_especialidade.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "cod_mun",
+            "type": "string",
+            "description": "Código IBGE do município de residência (6 dígitos)"
+          },
+          {
+            "name": "municipio",
+            "type": "string",
+            "description": "Nome do município de residência (RJ) ou 'Outros estados / ignorado'"
+          },
+          {
+            "name": "mes",
+            "type": "string",
+            "description": "Competência no formato AAAA-MM"
+          },
+          {
+            "name": "especialidade",
+            "type": "string",
+            "description": "Especialidade do leito (tabela ESPEC do SIH/SUS)"
+          },
+          {
+            "name": "internacoes",
+            "type": "integer",
+            "description": "Número de internações (AIHs aprovadas) no grupo"
+          },
+          {
+            "name": "valor_total_brl",
+            "type": "number",
+            "description": "Valor total das AIHs em reais (R$)"
+          },
+          {
+            "name": "dias_permanencia",
+            "type": "integer",
+            "description": "Soma dos dias de permanência (QT_DIARIAS)"
+          },
+          {
+            "name": "obitos",
+            "type": "integer",
+            "description": "Internações com desfecho óbito (MORTE=1)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "capitulo_cid_mes",
+      "title": "Internações por capítulo CID-10, mês e sexo",
+      "path": "clean/sih_rj_2025_capitulo_cid_mes.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "cap_cid",
+            "type": "string",
+            "description": "Capítulo CID-10 (I a XXII; ND = não informado)"
+          },
+          {
+            "name": "cap_cid_desc",
+            "type": "string",
+            "description": "Descrição curta do capítulo CID-10"
+          },
+          {
+            "name": "mes",
+            "type": "string",
+            "description": "Competência no formato AAAA-MM"
+          },
+          {
+            "name": "sexo",
+            "type": "string",
+            "description": "Sexo do paciente (Masculino/Feminino/Não informado)"
+          },
+          {
+            "name": "internacoes",
+            "type": "integer",
+            "description": "Número de internações (AIHs aprovadas) no grupo"
+          },
+          {
+            "name": "valor_total_brl",
+            "type": "number",
+            "description": "Valor total das AIHs em reais (R$)"
+          },
+          {
+            "name": "obitos",
+            "type": "integer",
+            "description": "Internações com desfecho óbito (MORTE=1)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "resumo_mensal",
+      "title": "Resumo mensal estadual (RJ)",
+      "path": "clean/sih_rj_2025_resumo_mensal.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "mes",
+            "type": "string",
+            "description": "Competência no formato AAAA-MM"
+          },
+          {
+            "name": "internacoes",
+            "type": "integer",
+            "description": "Número de internações (AIHs aprovadas) no grupo"
+          },
+          {
+            "name": "valor_total_brl",
+            "type": "number",
+            "description": "Valor total das AIHs em reais (R$)"
+          },
+          {
+            "name": "dias_permanencia",
+            "type": "integer",
+            "description": "Soma dos dias de permanência (QT_DIARIAS)"
+          },
+          {
+            "name": "obitos",
+            "type": "integer",
+            "description": "Internações com desfecho óbito (MORTE=1)"
+          },
+          {
+            "name": "media_permanencia_dias",
+            "type": "number",
+            "description": "Dias de permanência / internações"
+          },
+          {
+            "name": "taxa_mortalidade_pct",
+            "type": "number",
+            "description": "100 × óbitos / internações"
+          }
+        ]
+      }
+    }
+  ]
+}
