@@ -23,6 +23,11 @@ header img.selo{height:54px;width:auto}
 header h1{font-size:1.3rem;color:var(--azul);font-weight:800;line-height:1.2}
 header .sub{font-size:.78rem;color:var(--rodape)}
 header .fonte{margin-left:auto;text-align:right;font-size:.78rem;color:var(--rodape);z-index:1}
+header .volta{display:flex;flex-direction:column;gap:4px;z-index:1;border-left:1px solid #DFE1E6;
+  padding-left:18px;margin-left:14px;font-size:.82rem;white-space:nowrap}
+header .volta a{color:#1351B4;font-weight:700;text-decoration:none}
+header .volta a:hover{text-decoration:underline}
+@media(max-width:760px){header .volta{border-left:0;padding-left:0;margin-left:0;flex-direction:row;gap:14px;width:100%}}
 a{color:var(--govbr)}
 .controles{display:flex;gap:14px;align-items:center;padding:12px 28px;background:#fff;
   border-bottom:1px solid var(--borda);flex-wrap:wrap;position:sticky;top:0;z-index:10}
@@ -71,6 +76,11 @@ footer .links{margin-left:auto;font-size:.78rem}
   </div>
   <div class="fonte">Fonte: SIH/SUS · DATASUS<br>
     <a href="https://github.com/RaulAraujoSilva/ted77-sih-rj-dados-abertos">base de dados aberta ↗</a></div>
+  <nav class="volta" aria-label="Voltar ao portal">
+    <a href="https://ted77-portal.vercel.app/artigos/ind-02/" target="_top">← Voltar ao portal</a>
+    <a href="https://ted77-portal.vercel.app/" target="_top">Página inicial</a>
+  </nav>
+  <script>if(window.self!==window.top)document.currentScript.previousElementSibling.style.display='none';</script>
 </header>
 
 <div class="controles">
