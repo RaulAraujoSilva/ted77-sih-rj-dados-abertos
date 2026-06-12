@@ -1,0 +1,16 @@
+{
+  "title": "Internações hospitalares do SUS no Rio de Janeiro — 2025 (SIH/SUS)",
+  "description": "Base de dados aberta derivada dos microdados públicos do SIH/SUS (DATASUS/Ministério da Saúde): 926.136 internações (AIHs aprovadas) das competências 2025-01 a 2025-12, agregadas por município de residência, especialidade do leito e capítulo CID-10. Inclui dicionário de dados e datapackage Frictionless validado. Produzida no âmbito do TED 77/2024 — Transformação Digital do SUS (UFF · SEIDIGI/MS · FEC), aplicando a metodologia do artigo 'Building Health Management Dashboards with DATASUS Public Data' (IEEE INDUSCON).",
+  "creators": [
+    {"name": "TED 77/2024 — Transformação Digital do SUS (UFF/FEC/SEIDIGI-MS)"}
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "language": "por",
+  "keywords": ["SUS", "DATASUS", "SIH", "internações hospitalares", "dados abertos", "saúde pública", "Rio de Janeiro", "Brasil"],
+  "related_identifiers": [
+    {"relation": "isSupplementTo", "identifier": "https://ted77-portal.vercel.app/artigos/ind-02/", "resource_type": "publication"},
+    {"relation": "isSourceOf", "identifier": "https://raularaujosilva.github.io/ted77-sih-rj-dados-abertos/painel/", "resource_type": "other"}
+  ]
+}
